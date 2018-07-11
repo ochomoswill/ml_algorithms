@@ -1,0 +1,28 @@
+{
+  "name": "ml_algorithms",
+  "version": "1.0.0",
+  "description": "Implementation of a few of the algorithms in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "machine",
+    "learning",
+    "algorithms",
+    "javascript",
+    "machine",
+    "learning",
+    "knn",
+    "k-means",
+    "back",
+    "propagation",
+    "som",
+    "perceptron"
+  ],
+  "author": "ochomoswill",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
